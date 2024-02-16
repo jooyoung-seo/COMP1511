@@ -47,5 +47,10 @@ Double:
 - A double-sized floating point number
 - A decimal value
 
+Constants
+- variables that do not change
+- to define a constnat, we use #define and follow it with the name of the constant and the value
+e.g. #define PI 3.1415
+- note we define them outside the main function
 
 */
