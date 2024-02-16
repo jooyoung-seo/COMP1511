@@ -27,4 +27,25 @@ Compiling and running code:
     2. use: "gcc [filename.c] -o filename" to compile
     3. then: "./filename" to run the program
 
+Data Types:
+Each of these have different numbers of bytes that are allocated in memory;
+    int: integer, a whole number
+    char: a single character
+    double: a floating point number (decimal)
+- use lowercase letters to start variable names
+- use snake_case if multiple words
+
+Integers:
+- A whole number (no fractions/decimals)
+- Maximum is very large but not infinite (2,147,483,647)
+
+Characters (char):
+- A single character in C can also be represented as an int
+- The syntax to assign a single character is to put the character in single quotes: 'a'
+
+Double:
+- A double-sized floating point number
+- A decimal value
+
+
 */
