@@ -53,4 +53,14 @@ Constants
 e.g. #define PI 3.1415
 - note we define them outside the main function
 
+Structs
+- 1. Define the struct (outside main)
+  2. Declare the struct (inside your main)
+  3. Initialise the struct (inside your main)
+
+Enumerations
+- Enumerated constants
+- also define outside main
+- declare inside main
+
 */
