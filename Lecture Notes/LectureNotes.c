@@ -63,4 +63,15 @@ Enumerations
 - also define outside main
 - declare inside main
 
+Functions
+e.g.
+
+int (//return type) add (//name) (int number_one, int number_two) {
+  int sum;
+  sum = number_one + number two;
+  return sum;
+}
+
+
+
 */
